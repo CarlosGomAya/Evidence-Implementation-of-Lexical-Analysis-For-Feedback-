@@ -23,22 +23,15 @@ The dialect used has 5 words that all start with the letter "d":
 
 ## Automaton
 
-In class we saw that a DFA (deterministic finite automaton) is a system of states connected by transitions.
-
-The automaton reads the word one character at a time and moves between states.
-
-If it ends in the accepting state (qf), the word is valid.  
+In class we saw that a DFA (deterministic finite automaton) is a system of states connected by transitions. The automaton reads the word one character at a time and moves between states. If it ends in the accepting state (qf), the word is valid.  
 If not, the word is rejected.
-
 Paths for each word:
-
 
 dae → q0→q1→q2→qf
 dagor → q0→q1→q2→q4→q5→qf
 daro → q0→q1→q2→q6→qf
 del → q0→q1→q7→qf
 din → q0→q1→q9→qf
-
 
 ---
 
