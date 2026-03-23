@@ -13,11 +13,11 @@ For this evidence I chose a small set of elvish words from LOTR (Excel language 
 
 The dialect used has 5 words that all start with the letter "d":
 
-- dae - shadow  
-- dagor - battle  
-- daro - descend  
-- del - horror  
-- din - silent  
+- dae 
+- dagor  
+- daro 
+- del
+- din 
 
 ---
 
