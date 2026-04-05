@@ -27,6 +27,7 @@ In class we saw that a DFA (deterministic finite automaton) is a system of state
 If not, the word is rejected.
 Paths for each word:
 
+
 dae → q0→q1→q2→qf
 
 dagor → q0→q1→q2→q4→q5→qf
@@ -37,6 +38,9 @@ del → q0→q1→q7→qf
 
 din → q0→q1→q9→qf
 
+## Diagram
+
+![Automaton](automata.png)
 ---
 
 ## Regular Expression
