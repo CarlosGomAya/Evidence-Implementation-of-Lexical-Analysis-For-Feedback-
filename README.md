@@ -23,8 +23,8 @@ The dialect used has 5 words that all start with the letter "d":
 
 ## Automaton
 
-In class we saw that a DFA (deterministic finite automaton) is a system of states connected by transitions. The automaton reads the word one character at a time and moves between states. If it ends in the accepting state (qf), the word is valid.  
-If not, the word is rejected.
+In class we saw that a DFA (deterministic finite automaton) is a system of states connected by transitions. The automaton reads the word one character at a time and moves between states. If it ends in the accepting state (qf), the word is valid and in the diagram is represented with a double circle.  
+If not, the word is imediately rejected.
 Paths for each word:
 
 
@@ -94,3 +94,4 @@ Class notes
 Sudkamp, T. (2006). *Languages and Machines: An Introduction to the Theory of Computer Science*  
 https://www.geeksforgeeks.org/finite-automata-introduction/  
 https://docs.python.org/3/library/re.html  
+GeeksforGeeks. (2021). Python Regex Lookahead. https://www.geeksforgeeks.org/python-regex-lookahead/ (taken and referenced from a given example)
